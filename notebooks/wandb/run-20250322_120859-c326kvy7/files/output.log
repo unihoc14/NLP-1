@@ -1,0 +1,3 @@
+Sample padded question: ['celebrating', 'sports', 'teams', 'sometimes', 'start', 'what', 'when', 'they', 'get', 'out', 'of', 'hand', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>', '<PAD>']
+Sample padded choices: [['dashing', 'each', 'others'], ['intimacy', '<PAD>', '<PAD>'], ['riots', '<PAD>', '<PAD>'], ['happiness', '<PAD>', '<PAD>'], ['headaches', '<PAD>', '<PAD>']]
+Sample label: tensor(2)

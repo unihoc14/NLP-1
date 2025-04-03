@@ -1,0 +1,9 @@
+usage: ipykernel_launcher.py [-h] [--embedding_dim EMBEDDING_DIM]
+                             [--hidden_dim HIDDEN_DIM]
+                             [--output_dim OUTPUT_DIM]
+                             [--num_layers NUM_LAYERS]
+                             [--learning_rate LEARNING_RATE]
+                             [--batch_size BATCH_SIZE]
+ipykernel_launcher.py: error: unrecognized arguments: --f=c:\Users\Jonas\AppData\Roaming\jupyter\runtime\kernel-v33c5bb85c97c041e073b7b2b7c497aa72a226cec1.json
+c:\nlp_1\.venv\lib\site-packages\IPython\core\interactiveshell.py:3587: UserWarning: To exit: use 'exit', 'quit', or Ctrl-D.
+  warn("To exit: use 'exit', 'quit', or Ctrl-D.", stacklevel=1)

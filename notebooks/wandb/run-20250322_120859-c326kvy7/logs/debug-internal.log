@@ -1,0 +1,14 @@
+{"time":"2025-03-22T12:08:59.6241838+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\nlp_1\\notebooks\\wandb\\run-20250322_120859-c326kvy7\\logs\\debug-core.log"}
+{"time":"2025-03-22T12:09:00.176279+01:00","level":"INFO","msg":"created new stream","id":"c326kvy7"}
+{"time":"2025-03-22T12:09:00.1774504+01:00","level":"INFO","msg":"stream: started","id":"c326kvy7"}
+{"time":"2025-03-22T12:09:00.1774504+01:00","level":"INFO","msg":"sender: started","stream_id":"c326kvy7"}
+{"time":"2025-03-22T12:09:00.1768781+01:00","level":"INFO","msg":"handler: started","stream_id":"c326kvy7"}
+{"time":"2025-03-22T12:09:00.1779584+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"c326kvy7"}
+{"time":"2025-03-22T12:09:00.4881309+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-22T12:09:00.8915807+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-22T12:09:03.501223+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-22T12:09:11.9423742+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-22T12:09:12.9881027+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-22T12:09:12.9916203+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-22T12:09:15.1170486+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-22T12:09:19.2883432+01:00","level":"INFO","msg":"Pausing system monitor"}

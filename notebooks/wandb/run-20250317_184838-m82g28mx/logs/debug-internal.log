@@ -1,0 +1,60 @@
+{"time":"2025-03-17T18:48:38.8201487+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\nlp_1\\notebooks\\wandb\\run-20250317_184838-m82g28mx\\logs\\debug-core.log"}
+{"time":"2025-03-17T18:48:39.7883371+01:00","level":"INFO","msg":"created new stream","id":"m82g28mx"}
+{"time":"2025-03-17T18:48:39.7883371+01:00","level":"INFO","msg":"stream: started","id":"m82g28mx"}
+{"time":"2025-03-17T18:48:39.7883371+01:00","level":"INFO","msg":"handler: started","stream_id":"m82g28mx"}
+{"time":"2025-03-17T18:48:39.7883371+01:00","level":"INFO","msg":"sender: started","stream_id":"m82g28mx"}
+{"time":"2025-03-17T18:48:39.7883371+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"m82g28mx"}
+{"time":"2025-03-17T18:48:40.1561895+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T18:48:40.7529319+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T18:49:49.3618972+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T18:49:49.3788215+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T18:51:26.8010619+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T18:51:26.8052283+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T18:52:10.574156+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T18:52:10.5810559+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T18:54:48.0974538+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T18:54:53.5849032+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T23:22:34.8557502+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-18T00:33:06.9316841+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-18T10:14:55.5733702+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-18T10:15:00.1321002+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-18T15:05:48.8338846+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-18T19:09:28.1017958+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-18T19:09:44.0072981+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-18T19:09:44.0072981+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-18T21:13:29.4397296+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T01:01:34.9773678+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T10:06:38.7241944+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": context deadline exceeded"}
+{"time":"2025-03-19T10:06:43.2770164+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T13:09:44.362358+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T13:09:44.8332243+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T13:09:46.4483008+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T14:01:33.7395013+01:00","level":"WARN","msg":"sender: taking a long time","seconds":3108.9042692,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"1c08uvkf3nqz\"  connection_id:\"127.0.0.1:60365\")"}
+{"time":"2025-03-19T14:01:33.942959+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T14:01:33.942959+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T14:01:39.7351193+01:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":3114.9008884,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"1c08uvkf3nqz\"  connection_id:\"127.0.0.1:60365\")"}
+{"time":"2025-03-19T18:16:02.9642933+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T18:16:05.401919+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T18:16:10.5214548+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T18:16:26.8239842+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T18:16:26.8239842+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T20:16:43.6867627+01:00","level":"WARN","msg":"sender: taking a long time","seconds":3640.9001315,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"22x5l6wmw1k0\"  connection_id:\"127.0.0.1:60365\")"}
+{"time":"2025-03-19T20:16:43.8127266+01:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":3641.0260954,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"22x5l6wmw1k0\"  connection_id:\"127.0.0.1:60365\")"}
+{"time":"2025-03-19T20:16:43.872903+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T20:16:43.872903+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T20:16:45.9668067+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T20:16:46.2788582+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T20:17:01.2368472+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-19T20:17:01.2368472+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-20T01:06:10.2129945+01:00","level":"WARN","msg":"sender: taking a long time","seconds":17366.3660078,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"ky90h7wwrykz\"  connection_id:\"127.0.0.1:60365\")"}
+{"time":"2025-03-20T01:06:10.2822127+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-20T01:06:10.2822127+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-20T08:49:49.1148617+01:00","level":"WARN","msg":"sender: taking a long time","seconds":45185.267875,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"ky90h7wwrykz\"  connection_id:\"127.0.0.1:60365\")"}
+{"time":"2025-03-20T08:49:49.6098453+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-20T08:49:49.6098453+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-20T09:01:46.3384125+01:00","level":"WARN","msg":"sender: taking a long time","seconds":45902.4953538,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"ky90h7wwrykz\"  connection_id:\"127.0.0.1:60365\")"}
+{"time":"2025-03-20T09:01:46.4362089+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-20T09:01:46.4362089+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-20T09:02:46.7115488+01:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":45962.8684901,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"ky90h7wwrykz\"  connection_id:\"127.0.0.1:60365\")"}
+{"time":"2025-03-20T10:25:00.5904846+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-20T10:25:02.647246+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/jonas14/commonsense_qa/m82g28mx/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
