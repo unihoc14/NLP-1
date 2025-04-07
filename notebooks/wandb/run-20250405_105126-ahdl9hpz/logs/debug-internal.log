@@ -1,0 +1,26 @@
+{"time":"2025-04-05T10:51:26.2882161+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\nlp_1\\notebooks\\wandb\\run-20250405_105126-ahdl9hpz\\logs\\debug-core.log"}
+{"time":"2025-04-05T10:51:26.7959921+02:00","level":"INFO","msg":"created new stream","id":"ahdl9hpz"}
+{"time":"2025-04-05T10:51:26.7970392+02:00","level":"INFO","msg":"stream: started","id":"ahdl9hpz"}
+{"time":"2025-04-05T10:51:26.7970392+02:00","level":"INFO","msg":"handler: started","stream_id":"ahdl9hpz"}
+{"time":"2025-04-05T10:51:26.7975611+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"ahdl9hpz"}
+{"time":"2025-04-05T10:51:26.7975611+02:00","level":"INFO","msg":"sender: started","stream_id":"ahdl9hpz"}
+{"time":"2025-04-05T10:51:27.102355+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-05T10:51:27.4081109+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T10:51:27.4303726+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T10:51:27.4370502+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T10:51:27.4595034+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T10:51:35.16746+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T10:51:35.1905817+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T10:51:43.6247436+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T10:51:43.6458166+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T10:51:43.660402+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T10:51:43.6778499+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T10:51:43.6810207+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T10:51:43.7077454+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T10:51:47.5059965+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T10:51:47.5257053+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T10:51:47.5304142+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T11:59:28.0796738+02:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/jonas14/commonsense_qa/ahdl9hpz/file_stream"}
+{"time":"2025-04-05T11:59:28.0801915+02:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/jonas14/commonsense_qa/ahdl9hpz/file_stream: {\"error\":\"run commonsense_qa/ahdl9hpz not found while streaming file\"}"}
+{"time":"2025-04-05T14:52:53.6739133+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T14:53:28.010799+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.0.24:49308->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}

@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "CPython 3.10.2",
+  "startedAt":  "2025-04-05T08:51:26.279100Z",
+  "program":  "c:\\nlp_1\\notebooks\\final_submission.ipynb",
+  "codePath":  "notebooks\\final_submission.ipynb",
+  "git":  {
+    "remote":  "https://github.com/unihoc14/NLP-1.git",
+    "commit":  "45447cd654e52af08c34ad12280b66bd082774f4"
+  },
+  "email":  "jonas.buerge@stud.hslu.ch",
+  "root":  "c:\\nlp_1\\notebooks",
+  "host":  "DESKTOP-O2K42M2",
+  "executable":  "c:\\nlp_1\\.venv\\Scripts\\python.exe",
+  "codePathLocal":  "final_submission.ipynb",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "510701596672",
+      "used":  "352809943040"
+    }
+  },
+  "memory":  {
+    "total":  "16969424896"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}
